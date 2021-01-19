@@ -64,7 +64,7 @@ Slide Deck
 - [Biggest Lesson Learned](#biggest-lesson-learned)
 - [Additional Ideas](#additional-ideas)
 - [Thank You](#thank-you)
-- [Q & A](#q-a)
+- [Q and A](#q-and-a)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -791,7 +791,7 @@ Around 28 apps were included and we notably dropped support for Python 2.7
 
 </td><td>
 
-### Q & A
+### Q and A
 
 * I am now ready to take questions in the Q & A
 
