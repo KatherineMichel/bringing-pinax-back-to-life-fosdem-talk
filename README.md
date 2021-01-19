@@ -16,7 +16,7 @@
 Slides and script for a pre-recorded talk Katherine "Kati" Michel ([Twitter](https://twitter.com/KatiMichel), [GitHub](https://github.com/KatherineMichel)) gave at FOSDEM [Python DevRoom](https://fosdem.org/2021/schedule/track/python/), broadcast Sunday, February 7, 2021 at 6 am CST/1 pm Brussels, Belgium time.
  
 Talk Page
-* ["Bringing Pinax Back to Life"](https://fosdem.org/2021/schedule/event/python_pinax/)
+* "[Bringing Pinax Back to Life](https://fosdem.org/2021/schedule/event/python_pinax/)"
 
 Slide Deck
 * [Original slide deck](https://docs.google.com/presentation/d/1hzs64yiH0J2gjtDLyzQPUTEViO4xAFcGn6_nAXVfXlY/edit?usp=sharing)
