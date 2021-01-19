@@ -49,7 +49,7 @@ Slide Deck
 - [Simplified, Self-Service, and Self-Sustaining](#simplified-self-service-and-self-sustaining)
 - [Setting the Wheels in Motion](#setting-the-wheels-in-motion)
 - [Tribal Knowledge](#tribal-knowledge)
-- [Documentation](#documentation)
+- [GitHub Open Source Survey](#github-open-source-survey)
 - [Pinax Documentation](#pinax-documentation)
 - [Documentation](#documentation)
 - [One Source of Docs](#one-source-of-docs)
@@ -115,7 +115,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <table>
 
-<tr><td width="60%">
+<tr><td width="30%">
 
 ![Slide 3](https://speakerd.s3.amazonaws.com/presentations/75b3f1c3afcf43778751293b43bcc3c0/slide_2.jpg)
 
@@ -204,7 +204,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <table>
 
-<tr><td width="50%">
+<tr><td width="30%">
 
 ![Slide 8](https://speakerd.s3.amazonaws.com/presentations/75b3f1c3afcf43778751293b43bcc3c0/slide_7.jpg)
 
@@ -505,7 +505,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Documentation
+### GitHub Open Source Survey
 
 * GitHub did an open source survey in 2017 and they found that documentation is...
 * Highly valued
