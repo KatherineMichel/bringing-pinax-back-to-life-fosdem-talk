@@ -64,7 +64,7 @@ Slide Deck
 - [Biggest Lesson Learned](#biggest-lesson-learned)
 - [Additional Ideas](#additional-ideas)
 - [Thank You](#thank-you)
-- [Q & A](#q-&-a)
+- [Q & A](#q-a)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
 
@@ -584,7 +584,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Variation in Configurations
+### Variations in Configurations
 
 * Problem: Variation in configurations
 * Solution: Choose one configuration approach and implement across projects
