@@ -38,11 +38,11 @@ Slide Deck
 - [Re-Inventing the Wheel](#re-inventing-the-wheel)
 - [Fast Forward: 2017](#fast-forward-2017)
 - [The State of Pinax](#the-state-of-pinax)
-- [The State of Pinax, How It Began](#the-state-of-pinax-how-it-began)
-- [The State of Pinax, 80 Project and Apps](#the-state-of-pinax-80-project-and-apps)
-- [The State of Pinax, GitHub Organization, Global Docs, and Slack](#the-state-of-pinax-github-organization-global-docs-and-slack)
-- [The State of Pinax, Sustainability Lacking](#the-state-of-pinax-sustainability-lacking)
-- [Reality](#reality)
+- [How It Began](#how-it-began)
+- [How It Was Going, 80 Project and Apps](#how-it-was-going-80-project-and-apps)
+- [How It Was Going, GitHub Organization, Global Docs, and Slack](#how-it-was-going-github-organization-global-docs-and-slack)
+- [How It Was Going, Sustainability Lacking](#how-it-was-going-sustainability-lacking)
+- [Challenge and Opportunity](#challenge-and-opportunity)
 - [Critical Problems](#critical-problems)
 - [Solutions](#solutions)
 - [Beginner Mindset](#beginner-mindset)
@@ -292,7 +292,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### The State of Pinax, How It Began
+### How It Began
 
 * In his DjangoCon US 2008 talk in 2008, James talked about his own site Quisition
 * Even though it was a flashcard site, much of its functionality had nothing to do with flashcards
@@ -311,7 +311,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### The State of Pinax, 80 Project and Apps
+### How It Was Going, 80 Project and Apps
 
 * By 2017, Pinax had grown to be a large group of professionally-quality, interdependent Django projects and apps
 * This included starter projects with Pinax apps pre-installed and a command line interface to install them
@@ -330,7 +330,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### The State of Pinax, GitHub Organization, Global Docs, and Slack
+### How It Was Going, GitHub Organization, Global Docs, and Slack
 
 * In addition to the GitHub organization
 * Pinax now had a global docs site and a Pinax Slack channel for community and support
@@ -347,7 +347,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### The State of Pinax, Sustainability Lacking
+### How It Was Going, Sustainability Lacking
 
 * But… sustainability was lacking
 * By now, many of the original authors had moved on
@@ -364,7 +364,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 </td><td>
 
-### Reality
+### Challenge and Opportunity
 
 * It may sound like I’m criticizing Pinax and the people who created it, but… 
 * Pinax is amazing
