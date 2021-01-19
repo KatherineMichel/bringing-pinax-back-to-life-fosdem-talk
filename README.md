@@ -115,7 +115,7 @@ The script is a general outline and varies somewhat from what was said during th
 
 <table>
 
-<tr><td width="100%">
+<tr><td width="50%">
 
 ![Slide 3](https://speakerd.s3.amazonaws.com/presentations/75b3f1c3afcf43778751293b43bcc3c0/slide_2.jpg)
 
