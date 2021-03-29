@@ -20,6 +20,8 @@ Talk Page
 
 Slide Deck
 * [Original slide deck](https://docs.google.com/presentation/d/1hzs64yiH0J2gjtDLyzQPUTEViO4xAFcGn6_nAXVfXlY/edit?usp=sharing)
+
+Video
 * [Video recording](https://video.fosdem.org/2021/D.python/python_pinax.webm)
 
 :top: <sub>[**back to top**](#table-of-contents)</sub>
