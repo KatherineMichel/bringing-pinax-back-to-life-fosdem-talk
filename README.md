@@ -1,4 +1,4 @@
-# Bringing Pinax Back to Life- FOSDEM
+# Bringing Pinax Back to Life- FOSDEM Talk
 
 ## Table of Contents
 
